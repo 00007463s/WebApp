@@ -1,0 +1,529 @@
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\appsettings.Development.json
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\appsettings.json
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\FilmReviewApplication.exe
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\FilmReviewApplication.csprojAssemblyReference.cache
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\FilmReviewApplication.AssemblyInfoInputs.cache
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\FilmReviewApplication.AssemblyInfo.cs
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\FilmReviewApplication.RazorAssemblyInfo.cache
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\FilmReviewApplication.RazorAssemblyInfo.cs
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\FilmReviewApplication.TagHelpers.input.cache
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\FilmReviewApplication.TagHelpers.output.cache
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\FilmReviewApplication.RazorCoreGenerate.cache
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\FilmReviewApplication.RazorTargetAssemblyInfo.cache
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\FilmReviewApplication.RazorTargetAssemblyInfo.cs
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\staticwebassets\FilmReviewApplication.StaticWebAssets.Manifest.cache
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\staticwebassets\FilmReviewApplication.StaticWebAssets.xml
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\FilmReviewApplication.csproj.CopyComplete
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\FilmReviewApplication.deps.json
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\FilmReviewApplication.runtimeconfig.json
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\FilmReviewApplication.runtimeconfig.dev.json
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\FilmReviewApplication.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\FilmReviewApplication.pdb
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\FilmReviewApplication.Views.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\FilmReviewApplication.Views.pdb
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\FilmReviewApplication.Views.pdb
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\FilmReviewApplication.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\FilmReviewApplication.pdb
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\FilmReviewApplication.genruntimeconfig.cache
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\FilmReviewApplication.csproj.CoreCompileInputs.cache
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\FilmReviewApplication.MvcApplicationPartsAssemblyInfo.cache
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\Razor\Views\Films\Create.cshtml.g.cs
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\Razor\Views\Films\Delete.cshtml.g.cs
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\Razor\Views\Films\Details.cshtml.g.cs
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\Razor\Views\Films\Edit.cshtml.g.cs
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\Razor\Views\Films\Index.cshtml.g.cs
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\Razor\Views\Reviews\Create.cshtml.g.cs
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\Razor\Views\Reviews\Delete.cshtml.g.cs
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\Razor\Views\Reviews\Details.cshtml.g.cs
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\Razor\Views\Reviews\Edit.cshtml.g.cs
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\Razor\Views\Reviews\Index.cshtml.g.cs
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\Razor\Views\Users\Create.cshtml.g.cs
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\Razor\Views\Users\Delete.cshtml.g.cs
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\Razor\Views\Users\Details.cshtml.g.cs
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\Razor\Views\Users\Edit.cshtml.g.cs
+\\peter\ZDrive\00007463\Desktop\WebAppCoursework\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\Razor\Views\Users\Index.cshtml.g.cs
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\appsettings.Development.json
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\appsettings.json
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\FilmReviewApplication.exe
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\FilmReviewApplication.deps.json
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\FilmReviewApplication.runtimeconfig.json
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\FilmReviewApplication.runtimeconfig.dev.json
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\FilmReviewApplication.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\FilmReviewApplication.pdb
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\FilmReviewApplication.Views.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\FilmReviewApplication.Views.pdb
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\FilmReviewApplication.csprojAssemblyReference.cache
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\FilmReviewApplication.AssemblyInfoInputs.cache
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\FilmReviewApplication.AssemblyInfo.cs
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\FilmReviewApplication.csproj.CoreCompileInputs.cache
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\FilmReviewApplication.MvcApplicationPartsAssemblyInfo.cache
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\FilmReviewApplication.RazorAssemblyInfo.cache
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\FilmReviewApplication.RazorAssemblyInfo.cs
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\FilmReviewApplication.TagHelpers.input.cache
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\FilmReviewApplication.TagHelpers.output.cache
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\FilmReviewApplication.RazorCoreGenerate.cache
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\FilmReviewApplication.RazorTargetAssemblyInfo.cache
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\FilmReviewApplication.RazorTargetAssemblyInfo.cs
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\FilmReviewApplication.Views.pdb
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\FilmReviewApplication.csproj.CopyComplete
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\staticwebassets\FilmReviewApplication.StaticWebAssets.Manifest.cache
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\staticwebassets\FilmReviewApplication.StaticWebAssets.xml
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\FilmReviewApplication.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\FilmReviewApplication.pdb
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\FilmReviewApplication.genruntimeconfig.cache
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\FilmReviewApplication.DAL.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\FilmReviewApplication.DAL.pdb
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\appsettings.Development.json
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\appsettings.json
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\FilmReviewApplication.exe
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\FilmReviewApplication.deps.json
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\FilmReviewApplication.runtimeconfig.json
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\FilmReviewApplication.runtimeconfig.dev.json
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\FilmReviewApplication.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\FilmReviewApplication.pdb
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\FilmReviewApplication.Views.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\FilmReviewApplication.Views.pdb
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\FilmReviewApplication.DAL.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\bin\Debug\netcoreapp3.1\FilmReviewApplication.DAL.pdb
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\FilmReviewApplication.csprojAssemblyReference.cache
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\FilmReviewApplication.AssemblyInfoInputs.cache
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\FilmReviewApplication.AssemblyInfo.cs
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\FilmReviewApplication.csproj.CoreCompileInputs.cache
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\FilmReviewApplication.MvcApplicationPartsAssemblyInfo.cache
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\FilmReviewApplication.RazorAssemblyInfo.cache
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\FilmReviewApplication.RazorAssemblyInfo.cs
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\FilmReviewApplication.TagHelpers.input.cache
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\FilmReviewApplication.TagHelpers.output.cache
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\FilmReviewApplication.RazorCoreGenerate.cache
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\FilmReviewApplication.RazorTargetAssemblyInfo.cache
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\FilmReviewApplication.RazorTargetAssemblyInfo.cs
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\FilmReviewApplication.Views.pdb
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\FilmReviewApplication.csproj.CopyComplete
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\staticwebassets\FilmReviewApplication.StaticWebAssets.Manifest.cache
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\staticwebassets\FilmReviewApplication.StaticWebAssets.xml
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\FilmReviewApplication.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\FilmReviewApplication.pdb
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication\obj\Debug\netcoreapp3.1\FilmReviewApplication.genruntimeconfig.cache

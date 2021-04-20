@@ -1,0 +1,90 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div ng-app="FilmReviewApp">
+<div ng-view></div>
+</div>
+
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular.min.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular-route.min.js"></script>
+<script type="text/javascript">
+    angular
+        .module('FilmReviewApp', ['ngRoute'])
+        .config(function ($routeProvider) {
+            $routeProvider
+                .when('/', {
+                    templateUrl: 'pages/index.html',
+                    controller: 'IndexController'
+                })
+                .when('/films', {
+                    templateUrl: 'pages/films/films.html',
+                    controller: 'FilmController'
+                })
+                .when('/users', {
+                    templateUrl: 'pages/users.html',
+                    controller: 'UserController'
+                })
+                .when('/reviews', {
+                    templateUrl: 'pages/reviews.html',
+                    controller: 'ReviewController'
+                })
+                .otherwise({
+                    redirectTo: '/'
+                });
+        })
+        .controller('IndexController', ['$scope', '$http', function ($scope, $http) {
+            $scope.message = 'Welcome';
+        }])
+        .controller('FilmController', ['$scope', '$http', function ($scope, $http) {
+            $scope.films = [];
+            $http.get('@Url.Action("GetFilms", "Film")')
+                .then(function (response) {
+                    $scope.films = response.data;
+                });
+        }])
+        .controller('UserController', ['$scope', '$http', function ($scope, $http) {
+            $scope.users = [];
+            $http.get('@Url.Action("GetUsers", "User")')
+                .then(function (response) {
+                    $scope.users = response.data;
+                });
+            $scope.Delete = function (user) {
+                $http.delete("@Url.Action("GetUsers", "User")/" + user.id).then(function (response) {
+                    var index = $scope.users.indexOf(user);
+                    $scope.users.splice(index, 1);
+                });
+            }
+        }])
+        .controller('ReviewController', ['$scope', '$http', function ($scope, $http) {
+            $scope.reviews = [];
+            $scope.users = [];
+            $scope.selectedUser = null;
+
+            $http.get('@Url.Action("GetReviews", "Review")')
+                .then(function (response) {
+                    $scope.reviews = response.data;
+                });
+
+            $scope.GetReviews = function () {
+                var url = '@Url.Action("GetReviews", "Review")';
+                if ($scope.selectedUser) {
+                    url += '?userId=' + $scope.selectedUser.id;
+                }
+                $http.get(url)
+                    .then(function (response) {
+                        $scope.reviews = response.data;
+                    });
+            };
+            $scope.GetReviews(null);
+             $scope.Delete = function (review) {
+                $http.delete("@Url.Action("GetReviews", "Review")/" + review.id).then(function (response){
+                    var index = $scope.reviews.indexOf(review);
+                    $scope.reviews.splice(index, 1);
+                    });
+            }
+        }]);
+
+
+
+</script>

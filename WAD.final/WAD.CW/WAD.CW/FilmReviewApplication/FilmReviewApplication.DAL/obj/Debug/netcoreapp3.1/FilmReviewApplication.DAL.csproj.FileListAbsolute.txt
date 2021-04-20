@@ -1,0 +1,24 @@
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication.DAL\bin\Debug\netcoreapp3.1\FilmReviewApplication.DAL.deps.json
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication.DAL\bin\Debug\netcoreapp3.1\FilmReviewApplication.DAL.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication.DAL\obj\Debug\netcoreapp3.1\FilmReviewApplication.DAL.AssemblyInfoInputs.cache
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication.DAL\obj\Debug\netcoreapp3.1\FilmReviewApplication.DAL.AssemblyInfo.cs
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication.DAL\bin\Debug\netcoreapp3.1\FilmReviewApplication.DAL.runtimeconfig.json
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication.DAL\bin\Debug\netcoreapp3.1\FilmReviewApplication.DAL.runtimeconfig.dev.json
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication.DAL\bin\Debug\netcoreapp3.1\FilmReviewApplication.DAL.pdb
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication.DAL\obj\Debug\netcoreapp3.1\FilmReviewApplication.DAL.csproj.CoreCompileInputs.cache
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication.DAL\obj\Debug\netcoreapp3.1\FilmReviewApplication.DAL.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication.DAL\obj\Debug\netcoreapp3.1\FilmReviewApplication.DAL.pdb
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication.DAL\obj\Debug\netcoreapp3.1\FilmReviewApplication.DAL.genruntimeconfig.cache
+\\peter\ZDrive\00007463\Desktop\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication.DAL\obj\Debug\netcoreapp3.1\FilmReviewApplication.DAL.csprojAssemblyReference.cache
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication.DAL\bin\Debug\netcoreapp3.1\FilmReviewApplication.DAL.deps.json
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication.DAL\bin\Debug\netcoreapp3.1\FilmReviewApplication.DAL.runtimeconfig.json
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication.DAL\bin\Debug\netcoreapp3.1\FilmReviewApplication.DAL.runtimeconfig.dev.json
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication.DAL\bin\Debug\netcoreapp3.1\FilmReviewApplication.DAL.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication.DAL\bin\Debug\netcoreapp3.1\FilmReviewApplication.DAL.pdb
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication.DAL\obj\Debug\netcoreapp3.1\FilmReviewApplication.DAL.csprojAssemblyReference.cache
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication.DAL\obj\Debug\netcoreapp3.1\FilmReviewApplication.DAL.AssemblyInfoInputs.cache
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication.DAL\obj\Debug\netcoreapp3.1\FilmReviewApplication.DAL.AssemblyInfo.cs
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication.DAL\obj\Debug\netcoreapp3.1\FilmReviewApplication.DAL.csproj.CoreCompileInputs.cache
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication.DAL\obj\Debug\netcoreapp3.1\FilmReviewApplication.DAL.dll
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication.DAL\obj\Debug\netcoreapp3.1\FilmReviewApplication.DAL.pdb
+\\peter\ZDrive\00007463\Desktop\WAD.CW (3)\WAD.CW\WAD.CW\FilmReviewApplication\FilmReviewApplication.DAL\obj\Debug\netcoreapp3.1\FilmReviewApplication.DAL.genruntimeconfig.cache
